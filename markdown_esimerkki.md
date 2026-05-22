@@ -44,7 +44,7 @@ Kolme viivaa (`---`) tekee vaakaviivan, kuten yllä.
 
 [Tämä on linkki](https://www.markdownguide.org) – syntaksi: `[teksti](url)`
 
-![Kuvan kuvaus](https://via.placeholder.com/150) – syntaksi: `![alt-teksti](kuva.png)`
+![Kuvan kuvaus]([https://via.placeholder.com/150](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)) – syntaksi: `![alt-teksti](kuva.png)`
 
 ---
 
